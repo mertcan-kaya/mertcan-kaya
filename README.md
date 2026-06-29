@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a Doctoral Candidate and Research Associate sp
 
 ## 📈 GitHub Stats
 <!-- GITHUB STATS: Dynamically generated visual stats card -->
-![Mertcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcan-kaya&show_icons=true&theme=radical)
+![Mertcan's GitHub stats](https://github-stats-extended.vercel.app/api?username=mertcan-kaya&show_icons=true&theme=radical)
 
 ---
 
