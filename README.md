@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Doctoral Candidate and Research Associate sp
 - 🔬 I am actively developing hierarchical motion-planning frameworks using inverse optimal control and dynamic state estimation.
 - 🎓 I am pursuing a cooperative doctorate at the Technical University of Munich (TUM) and Coburg University.
 - 📊 **Research Output:** 3 Journal Articles | 6 Conference Proceedings | 2 Active Manuscripts
-- 💃 Outside the lab, I enjoy dancing Salsa, Bachata, and Argentine Tango, playing the guitar, and weight training.
+- 🕺 Outside the lab, I enjoy dancing Salsa, Bachata, and Argentine Tango, playing the guitar, and weight training.
 - 💬 Ask me about robotics, adaptive control algorithms, or tech trends!
 
 ## 🌟 Open-Source Research Projects
